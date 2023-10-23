@@ -1,0 +1,8 @@
+.additem{
+    display: grid;
+    grid-template-columns: auto;
+}
+input{
+    align-self: self-end;
+}
+
